@@ -14,5 +14,5 @@ It:
 5. Uses descriptive activity names to name the activities in the data set.
 6. Appropriately labels the data set with descriptive activity names.
 7. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-8. tidyDataSet <- read.table("./tidyData.txt")
+8. Open the tidyDataSet <- read.table("./tidyData.txt")
 
